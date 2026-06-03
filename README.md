@@ -20,4 +20,4 @@ If you encounter a "Mod Mismatch" or connection error while joining:
 *   **Contact Support:** If the issue persists, reach out to the server administrator for technical assistance.
 
 ---
-*Maintained by **Ace** | GCB Esports* ⚡
+*Maintained by **Ace** | Cyber Soulz* ⚡
