@@ -2,10 +2,10 @@
 
 # ⛏️🟩 Minecraft Mod Vault 🟩⛏️
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Animated banner displaying welcome messages for the Minecraft Server Mods Repository" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Official Minecraft Server Mods Repository with auto-sync enabled for instant compatibility" />
 
 
-<img src="https://img.shields.io/badge/Server-Modpack%20Sync-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Server status: Modpack Sync enabled" />
+<img src="https://img.shields.io/badge/Server-Modpack%20Sync-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Feature: Modpack Sync enabled" />
 <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Server status: Online" />
 
 </div>
@@ -42,7 +42,7 @@ If you see **Mod Mismatch** or can’t connect:
 <div align="center">
 
 ### 🔥 Built for smooth multiplayer adventures
-<img src="https://img.shields.io/badge/Minecraft-Adventure%20Ready-3CB043?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft: Adventure Ready" />
+<img src="https://img.shields.io/badge/Minecraft-Multiplayer%20Compatible-3CB043?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft: Multiplayer Compatible" />
 
 **Maintained by _Ace_ | Cyber Soulz ⚡**
 
