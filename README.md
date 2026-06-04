@@ -2,7 +2,7 @@
 
 # ⛏️🟩 Minecraft Mod Vault 🟩⛏️
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Animated title" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Animated header displaying Minecraft server mods repository welcome messages" />
 
 <img src="https://img.shields.io/badge/Server-Modpack%20Sync-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Modpack Sync" />
 <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Status" />
@@ -20,7 +20,7 @@ This repo is connected to a custom **`Update_Mods.bat`** script that:
 - checks your local mod files,
 - compares versions with this repo,
 - downloads only what changed,
-- keeps `%appdata%\\.minecraft\\mods` perfectly synced.
+- keeps `%appdata%\.minecraft\mods` perfectly synced.
 
 > ✅ **You do NOT need to manually download JARs from GitHub.**
 
@@ -41,7 +41,7 @@ If you see **Mod Mismatch** or can’t connect:
 <div align="center">
 
 ### 🔥 Built for smooth multiplayer adventures
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N0YTF2Z3B5aWhmOWRmZ2w5M2s5NW9sNGJ4Y2M4cWNveW0wMnhpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="420" alt="Minecraft animation" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N0YTF2Z3B5aWhmOWRmZ2w5M2s5NW9sNGJ4Y2M4cWNveW0wMnhpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="420" alt="Animated GIF showing Minecraft-style block world gameplay" />
 
 **Maintained by _Ace_ | Cyber Soulz ⚡**
 
