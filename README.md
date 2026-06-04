@@ -1,23 +1,48 @@
-# 🚀 Official Minecraft Server Mod Repository
+<div align="center">
 
-Welcome to the central repository for our Minecraft server's modpack and dependencies. This vault ensures all players remain fully synchronized with the latest server updates, machinery add-ons, and performance optimizations.
+# ⛏️🟩 Minecraft Mod Vault 🟩⛏️
 
-### ⚙️ System Overview
-To eliminate manual setup and version mismatch errors, this repository is linked to a custom `Auto-Sync Batch Script`. The script utilizes the GitHub API to compare your local files with this repository and downloads only the necessary updates.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Animated title" />
 
-### 🛠️ Instructions for Players
-**You do not need to download files directly from this page.** 
+<img src="https://img.shields.io/badge/Server-Modpack%20Sync-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Modpack Sync" />
+<img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Status" />
 
-1. Ensure you have the `Update_Mods.bat` script provided by the server admin.
-2. Double-click the script to run it.
-3. Allow the terminal to verify and update your local `%appdata%\.minecraft\mods` folder.
-4. Launch Minecraft and join the server.
-
-### 🛑 Troubleshooting & Support
-If you encounter a "Mod Mismatch" or connection error while joining:
-*   **Check your connection:** Ensure your internet is stable and GitHub is accessible.
-*   **Run as Administrator:** In rare cases, Windows might block the script. Right-click the `.bat` file and select "Run as Administrator".
-*   **Contact Support:** If the issue persists, reach out to the server administrator for technical assistance.
+</div>
 
 ---
-*Maintained by **Ace** | Cyber Soulz* ⚡
+
+## 🌍 What is this place?
+This is the **official mod repository** for our Minecraft server.
+It keeps every player on the same mod versions so you can join without mismatch chaos.
+
+## ⚙️ Auto-Sync System (Recommended)
+This repo is connected to a custom **`Update_Mods.bat`** script that:
+- checks your local mod files,
+- compares versions with this repo,
+- downloads only what changed,
+- keeps `%appdata%\\.minecraft\\mods` perfectly synced.
+
+> ✅ **You do NOT need to manually download JARs from GitHub.**
+
+## 🧭 Player Quick Start
+1. Get `Update_Mods.bat` from the server admin.
+2. Double-click it.
+3. Let it finish syncing your mods folder.
+4. Launch Minecraft and join the server.
+
+## 🛑 Troubleshooting
+If you see **Mod Mismatch** or can’t connect:
+- **Check internet**: GitHub must be reachable.
+- **Run as Administrator**: Right-click the `.bat` and choose *Run as Administrator*.
+- **Still broken?** Contact the server admin for support.
+
+---
+
+<div align="center">
+
+### 🔥 Built for smooth multiplayer adventures
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3N0YTF2Z3B5aWhmOWRmZ2w5M2s5NW9sNGJ4Y2M4cWNveW0wMnhpbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="420" alt="Minecraft animation" />
+
+**Maintained by _Ace_ | Cyber Soulz ⚡**
+
+</div>
