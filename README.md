@@ -10,7 +10,6 @@
 
 </div>
 
-
 ---
 
 ## 🌍 What is this place?
