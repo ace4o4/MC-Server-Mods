@@ -2,12 +2,12 @@
 
 # ⛏️🟩 Minecraft Mod Vault 🟩⛏️
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Animated header with messages: Welcome to the official MC Server Mods Repository, Auto-sync your mods like a pro, Stay updated Stay compatible Join instantly" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Minecraft Server Mods Repository with auto-sync updates for seamless compatibility" />
 
-`Welcome to the official MC Server Mods Repository · Auto-sync your mods like a pro · Stay updated, stay compatible, join instantly.`
+**Welcome to the official MC Server Mods Repository · Auto-sync your mods like a pro · Stay updated, stay compatible, join instantly.**
 
-<img src="https://img.shields.io/badge/Server-Modpack%20Sync-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Modpack Sync" />
-<img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/Server-Modpack%20Sync-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Server status: Modpack Sync enabled" />
+<img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Server status: Online" />
 
 </div>
 
@@ -43,7 +43,7 @@ If you see **Mod Mismatch** or can’t connect:
 <div align="center">
 
 ### 🔥 Built for smooth multiplayer adventures
-<img src="https://img.shields.io/badge/Minecraft-Adventure%20Ready-3CB043?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft adventure ready badge" />
+<img src="https://img.shields.io/badge/Minecraft-Adventure%20Ready-3CB043?style=for-the-badge&logo=minecraft&logoColor=black" alt="Minecraft: Adventure Ready" />
 
 **Maintained by _Ace_ | Cyber Soulz ⚡**
 
