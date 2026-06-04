@@ -2,9 +2,9 @@
 
 # ⛏️🟩 Minecraft Mod Vault 🟩⛏️
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Minecraft Server Mods Repository. Messages: Welcome to the official MC Server Mods Repository; Auto-sync your mods like a pro; Stay updated, stay compatible, join instantly." />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Messages: Welcome to the official MC Server Mods Repository · Auto-sync your mods like a pro · Stay updated, stay compatible, join instantly." />
 
-> Reduced-motion fallback: Welcome to the official MC Server Mods Repository · Auto-sync your mods like a pro · Stay updated, stay compatible, join instantly.
+> Accessibility fallback text (for reduced motion and screen readers): Welcome to the official MC Server Mods Repository · Auto-sync your mods like a pro · Stay updated, stay compatible, join instantly.
 
 <img src="https://img.shields.io/badge/Server-Modpack%20Sync-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Server status: Modpack Sync enabled" />
 <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Server status: Online" />
@@ -35,7 +35,7 @@ This repo is connected to a custom **`Update_Mods.bat`** script that:
 ## 🛑 Troubleshooting
 If you see **Mod Mismatch** or can’t connect:
 - **Check internet**: GitHub must be reachable.
-- **Run as Administrator**: Right-click the `.bat` and choose *Run as Administrator*.
+- *"Run as Administrator"*: Right-click the `.bat` and choose "Run as Administrator".
 - **Still broken?** Contact the server admin for support.
 
 ---
