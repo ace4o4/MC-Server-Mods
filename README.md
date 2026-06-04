@@ -35,7 +35,7 @@ This repo is connected to a custom **`Update_Mods.bat`** script that:
 ## 🛑 Troubleshooting
 If you see **Mod Mismatch** or can’t connect:
 - **Check internet**: GitHub must be reachable.
-- *"Run as Administrator"*: Right-click the `.bat` and choose "Run as Administrator".
+- **Run as Administrator**: Right-click the `.bat` and choose "Run as Administrator".
 - **Still broken?** Contact the server admin for support.
 
 ---
