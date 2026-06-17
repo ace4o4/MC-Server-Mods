@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1200&color=55FF55&center=true&vCenter=true&width=900&lines=Welcome+to+the+official+MC+Server+Mods+Repository!;Auto-sync+your+mods+like+a+pro.;Stay+updated.+Stay+compatible.+Join+instantly." alt="Official Minecraft Server Mods Repository with auto-sync enabled for instant compatibility" />
 
 
-
 <img src="https://img.shields.io/badge/Server-Modpack%20Sync-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Feature: Modpack Sync enabled" />
 <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Server status: Online" />
 
