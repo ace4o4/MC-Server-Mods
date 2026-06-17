@@ -6,7 +6,6 @@
 
 
 
-
 <img src="https://img.shields.io/badge/Server-Modpack%20Sync-55FF55?style=for-the-badge&logo=minecraft&logoColor=black" alt="Feature: Modpack Sync enabled" />
 <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge" alt="Server status: Online" />
 
